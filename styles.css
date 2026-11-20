@@ -1,23 +1,9 @@
-/*
-  TODO 3: Elige los colores de tu piñata.
-  --color-1, --color-2 y --color-3 pintan los picos y las tiras de papel.
-  --cuerpo pinta el centro de la piñata.
-  Usa estos colores o cualquier otro que te guste:
-    Rosa mexicano #E4007C
-    Amarillo      #FFC21A
-    Turquesa      #00A6A6
-    Naranja       #FF7A1A
-    Verde limón   #8BD346
-    Morado        #7A2AB8
-    Azul talavera #1F4AA8
-    Coral         #F0505A
-  Ejemplo: --color-1: #8BD346;
-*/
+
 :root {
   --color-1: #E4007C;
-  --color-2: #FFC21A;
+  --color-2: #eecd75;
   --color-3: #00A6A6;
-  --cuerpo: #FFF6E5;
+  --cuerpo: #1F4AA8;
 }
 
 /* A partir de aquí no necesitas cambiar nada, pero puedes explorar */
